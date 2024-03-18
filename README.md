@@ -9,7 +9,7 @@ For additional convenience in data visualization, I have studied in-demand softw
 
 I have chosen Python and SQL as my programming languages because they are the most convenient programming tools for solving tasks when working with big data, and they offer flexibility in solving analytical tasks.
 
-## Languages and tools
+## Languages and tools 🛠
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="80" height="80" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="80" height="80" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="80" height="80" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/Git" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="80" height="80" alt="Git" /></a><a href="https://www.iberdrola.com/innovation/machine-learning-automatic-learning" target="_blank" rel="noreferrer"><img src="https://bigblue.academy/images/image/blog/what-is-machine-learning-2023-beginners-guide/1-3cxboknql4qs-lryht3pqw.jpg" width="80" height="80" alt="Git" /></a>    
