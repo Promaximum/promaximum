@@ -4,7 +4,9 @@
 <p>Welcome to my page! 
 I'm Aleksandr, Junior Data Scientist, currently living in <img src=https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Barcelona, Spain</b>. </p> 
 
-
+<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<h3>Things I code with</h3>
+<p>
 
 I am seeking employment in the field of Data Science because it is one of the fastest-growing sectors in the IT industry, demanded in solving various business processes, and essential in any sector.
 
