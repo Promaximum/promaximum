@@ -14,3 +14,14 @@ I have chosen Python and SQL as my programming languages because they are the mo
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" height="50" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="50" height="50" alt="Git" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/Git" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50" height="50" alt="Git" /></a> <a 
 </p>
+
+## Social networks
+
+  <div id="badges">
+    <a href="https://t.me/apromaximum" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://www.linkedin.com/in/aleksandr-prokunin/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="aleksandr-prokunin"/>
+    </a>
+  </div>
