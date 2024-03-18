@@ -24,4 +24,7 @@ I have chosen Python and SQL as my programming languages because they are the mo
     <a href="https://www.linkedin.com/in/aleksandr-prokunin/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="aleksandr-prokunin"/>
     </a>
+    <a href="https://www.instagram.com/promaximum/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="promaximum"/>
+    </a>
   </div>
