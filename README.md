@@ -1,6 +1,6 @@
 
 # Junior Data Scientist
-## About me
+## About me 👋
 <p>Welcome to my page! 
 I'm Aleksandr, Junior Data Scientist, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Barcelona, Spain</b>. </p> 
 
@@ -20,7 +20,7 @@ I have chosen Python and SQL as my programming languages because they are the mo
 
 
 
-## Social networks
+## Social networks 👨‍💻
 
   <div id="badges">
     <a href="https://t.me/apromaximum" target="_blank">
